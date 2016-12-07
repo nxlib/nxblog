@@ -1,0 +1,9 @@
+{
+  "config": {
+
+  },
+  "require": {
+    "nxlib/mvc":  "~1.0",
+    "nxlib/rdsorm": "~0.0.1"
+  }
+}
